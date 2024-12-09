@@ -1,0 +1,34 @@
+/* Answer-1 */
+h1 + p {
+    background-color: olivedrab;
+}
+
+/* Answer-2 */
+.wrapper h2 ~ p {
+    background-color: blueviolet;
+}
+
+/* Answer-3 */
+section  .box > span {
+    background-color: thistle;
+}
+
+/* Answer-4 */
+.wrapper p {
+    background-color: lightseagreen;
+}
+
+/* Answer-5 */
+.parent > div {
+    background-color: red;
+}
+
+/* Answer-6 */
+.container > p {
+    background-color: rgba(255, 182, 193, 0.56);
+}
+
+/* Answer-7 */
+.section p {
+    background-color: lightslategray;
+}
